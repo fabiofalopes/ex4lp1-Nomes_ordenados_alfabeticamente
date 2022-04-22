@@ -84,6 +84,7 @@ Exemplos na consola:
 
 3)
 
+
 >	
 	Quantos nomes pretende introduzir?
 	7
