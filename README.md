@@ -28,9 +28,9 @@ Assim que for introduzido um número válido, o programa imprime a seguinte mens
 	"Introduza os nomes:\n"
 
 
-- O programa aceita nomes com um máximo de 15 caracteres.
+- O programa aceita nomes com um máximo de 20 caracteres.
 - Caso o utilizador introduza nomes começados por minúsculas, deve converter as iniciais para maiúscula;
-- Caso o utilizador introduza um nome com mais de 15 caracteres, o programa deve imprimir
+- Caso o utilizador introduza um nome com mais de 20 caracteres, o programa deve imprimir
 
 >       "\nAtencao!\nExcedeu o tamanho permitido para o nome\nEnter Again : \n"
 
@@ -51,7 +51,7 @@ Podem ser usadas as bibliotecas <ctype.h> e <string.h>
 
 Podem ser usadas as bibliotecas <ctype.h> e <string.h>
 
-Exemplos 1 e 2 na consola:
+Exemplos na consola:
 
 
 >       
@@ -81,3 +81,38 @@ Exemplos 1 e 2 na consola:
         Manuela
         Maria Lurdes
         Teresa
+
+3)
+
+>	
+	Quantos nomes pretende introduzir?
+	7
+	Introduza os 7 nomes:
+	manuela moura guedes
+	anibal cavaco silva 
+	dom joao quinto o magnanimo
+
+	Atencao!
+	Excedeu o limite de 20 caracteres
+	Enter Again :
+	
+	dom joao v o magnanimo
+
+	Atencao!
+	Excedeu o limite de 20 caracteres
+	Enter Again :
+	
+	joao v o magnanimo
+	Jose mourinho
+	cristiano ronaldo
+	pedro ingles
+	luis v
+
+	Os nomes intoduzidos por ordem alfabetica: 
+	Anibal Cavaco Silva 
+	Cristiano Ronaldo
+	Joao V O Magnanimo
+	Jose Mourinho
+	Luis V
+	Manuela Moura Guedes
+	Pedro Ingles
