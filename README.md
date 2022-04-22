@@ -44,14 +44,10 @@ seguida dos nomes ordenados por ordem alfabetica.
 
 Podem ser usadas as bibliotecas <ctype.h> e <string.h>
 
-**-Exemplos na consola**
+**Exemplos na consola**
+
 
 1)
-     seguida dos nomes ordenados por ordem alfabetica.
-
-Podem ser usadas as bibliotecas <ctype.h> e <string.h>
-
-Exemplos na consola:
 
 
 >       
